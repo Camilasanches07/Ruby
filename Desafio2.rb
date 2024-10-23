@@ -5,9 +5,6 @@
 # -No final o sistema mostra quais números foram pares e quais foram ímpares 
 # -Durante o uso vai mostrando se o número digitado foi par ou ímpar
 
-# 02)
-# -Cálculo de média, desenvolva um sistema que calcule a média de uma lista de notas inserida pelo usuário 
-
 numeros_pares = []
 numeros_impares = []
 
